@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7a7cefb-263d-4aee-b050-cc6d64ba142e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cqZ5Mmht8EcHxPwR2vdTPOWrJZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/GameRan/GameRan2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.Solidity" />
+  </component>
+  <component name="RunManager" selected="Application.FlappyBirds (1)">
+    <configuration name="FlappyBirds (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game.FlappyBirds" />
+      <module name="FlappyBirdGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlappyBirds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlappyBirds" />
+      <module name="FlappyBirdGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlappyBirds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game.FlappyBirds" />
+      <module name="FlappyBirdGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RanAnMoiJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RanAnMoiJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FlappyBirds (1)" />
+        <item itemvalue="Application.FlappyBirds" />
+        <item itemvalue="Application.RanAnMoiJava" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7a7cefb-263d-4aee-b050-cc6d64ba142e" name="Default Changelist" comment="" />
+      <created>1591257899068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591257899068</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1591464336593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1591464336593" />
+    <state x="400" y="22" key="#RanAnMoiJava" timestamp="1591460329163">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="22" key="#RanAnMoiJava/0.0.1366.728@0.0.1366.728" timestamp="1591460329163" />
+    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1591789774914">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591789774914" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591350271196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1591350271196" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1591952240191">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1591952240191" />
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591350379539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1591350379539" />
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1591464249100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1591464249100" />
+    <state x="263" y="18" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1591463895277">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="18" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.728@0.0.1366.728" timestamp="1591463895277" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1591501512476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591501512476" />
+    <state width="1323" height="170" key="GridCell.Tab.0.bottom" timestamp="1594893559922">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594893559922" />
+    <state width="1323" height="170" key="GridCell.Tab.0.center" timestamp="1594893559922">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="170" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594893559922" />
+    <state width="1323" height="170" key="GridCell.Tab.0.left" timestamp="1594893559922">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="170" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594893559922" />
+    <state width="1323" height="170" key="GridCell.Tab.0.right" timestamp="1594893559922">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594893559922" />
+    <state width="603" height="212" key="GridCell.Tab.1.bottom" timestamp="1591464809087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="603" height="212" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591464809087" />
+    <state width="603" height="212" key="GridCell.Tab.1.center" timestamp="1591464809086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="603" height="212" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1591464809086" />
+    <state width="603" height="212" key="GridCell.Tab.1.left" timestamp="1591464809086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="603" height="212" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1591464809086" />
+    <state width="603" height="212" key="GridCell.Tab.1.right" timestamp="1591464809087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="603" height="212" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591464809087" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1591953050088">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591953050088" />
+    <state x="404" y="105" width="540" height="524" key="StructurePopup" timestamp="1591953695876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="404" y="105" width="540" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1591953695876" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1594893530699">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594893530699" />
+    <state x="65" y="88" key="new project wizard" timestamp="1592101441728">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="88" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1592101441728" />
+    <state x="756" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1591578628547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="756" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1591578628547" />
+  </component>
+</project>
